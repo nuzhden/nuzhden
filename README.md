@@ -1,5 +1,7 @@
-## Hi there 👋
+## Hi there,  my name is Ksenia Nuzhdenkova👋 
+I completed the course "Data Analyst" from Yandex.Practicum. During my studies, I learned how to work with very large amounts of data, studied the main statistical methods of data analysis, and learned how to create informative graphs and diagrams.
 
+Technology stack: Pyton (Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly), SQL (PosgreSQL), BI tools (Tableau, Power BI).
 <!--
 **nuzhden/nuzhden** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
